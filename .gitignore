@@ -1,0 +1,10 @@
+.env
+data/posts.json
+data/patterns.json
+data/*.txt
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.DS_Store
